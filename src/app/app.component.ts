@@ -40,7 +40,7 @@ export class AppComponent {
         if (data.wasTapped) {
           console.log('Received in background');
         } else {
-          console.log('Received in foreground');
+          alert('Received in foreground');
         }
       });      
 
@@ -51,6 +51,7 @@ export class AppComponent {
 
       // unsubscribe from a topic
       // this.fcm.unsubscribeFromTopic('offers');
+      this.fcm.subscribeToTopic("ginil");
 
     });
   }

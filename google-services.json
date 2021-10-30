@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814848405225",
+    "project_id": "d2u-mn",
+    "storage_bucket": "d2u-mn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814848405225:android:7ce27f6f0fc3dd19f78a78",
+        "android_client_info": {
+          "package_name": "com.dcms.d2u.maitland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814848405225-955e5h6cbqhdjbbq1grkjarlcnl2mbmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kj30PIL1TD02KGKHYlKFSXxtOgP_m70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814848405225-955e5h6cbqhdjbbq1grkjarlcnl2mbmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
